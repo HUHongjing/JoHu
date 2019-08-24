@@ -1,48 +1,45 @@
 ---
-title: first Post
+title: How to Make PPT
 author: Jo
 layout: post
 ---
 
-{:toc}
 
-# How to Make PPT 
 
-*by William Peng*
+*lecture by William Peng*
 
 ---
-
 5 rules of making PPTs
-
 William showed us a PPT made in 2010 (just like a video)
 
 #### What is PPT?
-
 *"Just a tool, a helper, a very effective helper" --- William*
 
----
+
 
 ### 1 Treat your audience as your King 
-
+---
 减少灌输，给予有用的内容，使用容易沟通的沟通模式
 
----
+
 
 ### 2 Spread ideas and move people
-
-######适当活动图片或者发出声音能吸引听众的注意力
+---
+###适当活动图片或者发出声音能吸引听众的注意力
 
 '减少转场动画'
 
-1.产品
+​	1.产品
 
-2.图片
+​	2.图片
 
-3.。。。
+​	3.。。。
 
----
+
 
 ### 3 Help them see what you are saying 
+---
+
 
 ###### 人的思维会更适合【听】或者【看】（思考者或者观察者）；
 
@@ -52,9 +49,10 @@ William showed us a PPT made in 2010 (just like a video)
 
 尽量使用图片，表格，图标来引起兴趣
 
----
+
 
 ### 4 Practice Design but not Decoration
+---
 
 ###### 90% of the design are destructive
 
@@ -62,9 +60,10 @@ Showing only your key words
 
 一次只传达一个核心观点；拆解不同的元素放在好几个独立的页面
 
----
+
 
 ### 5 Cultivate healthy relationships
+---
 
 Don't read your PPT
 
@@ -88,7 +87,7 @@ Practice your presentation and know your PPT well
 
 
 
-#### 1.Know your audience
+### 1.Know your audience
 
 受众约具体沟通越清晰
 
@@ -98,7 +97,7 @@ Practice your presentation and know your PPT well
 
 ---
 
-#### 2.现场演讲的建议
+### 2.现场演讲的建议
 
 *写下每页幻灯片的重点【课下了解记忆宫殿（TED）】
 
@@ -110,7 +109,7 @@ Practice your presentation and know your PPT well
 
 ---
 
-####3.三分钟故事
+###3.三分钟故事
 
 将所有内容缩减为三分钟，留下最精华和重点的内容
 
@@ -122,7 +121,7 @@ Practice your presentation and know your PPT well
 
 ---
 
-####4.故事板--思维导图
+###4.故事板--思维导图
 
 *“画出自己的故事”*  ----- 华尔特 . 迪士尼
 
@@ -134,6 +133,7 @@ PPT可以用【便利贴】进行提前策划
 
 
 
+---
 # Before Making PPT
 
 ###### 步骤
