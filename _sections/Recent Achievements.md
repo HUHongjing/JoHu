@@ -10,14 +10,14 @@ Do, change and get better!
 ***This is the snake's motto!***      
 
 ---
-#Achievements
+**Achievements**
 1. Established my own website(ready for future updates)       
 2. Got ready for book readings      
 3. Cleaned my macbook    
 
 ---
 
-#To Do list   
+**To Do list**   
 1. Holy Study notes blog update    
 2. Reading notes blog update    
 3. Recover from my digestive system illness    
