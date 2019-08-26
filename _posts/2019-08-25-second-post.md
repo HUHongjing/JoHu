@@ -1,16 +1,18 @@
 ---
-title: Holy's Study Methods
+title: Holly's Study Methods
 author: Jo
 layout: post
 ---
 
 *学习笔记： Holly Garielle, a Youtuber and a Cambridge graduate*
 
----
 
-## 日常学习（复习）相关
 
-###学习小技巧
+# 日常学习（复习）相关
+
+##学习小技巧
+
+
 
 1.**使用计时器**    
 
