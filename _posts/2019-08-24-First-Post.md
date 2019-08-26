@@ -1,5 +1,5 @@
 ---
-title: How to Make PPT 2
+title: How to Make PPT
 author: Jo
 layout: post
 ---
