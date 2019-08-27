@@ -12,11 +12,11 @@ layout: post
 
 
 
-# 学习:     
+## 学习:     
 
 ---
 
-## 学习过程安排     
+### 学习过程安排     
 
 ---
 
@@ -38,7 +38,7 @@ layout: post
 
 
 
-##学习方法 
+###学习方法 
 
 ---
 
@@ -72,7 +72,7 @@ Plan before you write, such that you may finish your task with higher efficiency
 
 
 
-# 生活：
+## 生活：
 
 ---
 
@@ -100,4 +100,4 @@ Plan before you write, such that you may finish your task with higher efficiency
 
 
 
-一起加油呀呀
+***一起加油呀呀***
